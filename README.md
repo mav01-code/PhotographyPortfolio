@@ -29,17 +29,6 @@ Welcome to my personal photography portfolio — a sleek, single-page website to
 
 ---
 
-## 📂 Folder Structure
-
-
----
-
-## 📷 Screenshots
-
-Add screenshots of your home, gallery, or full-page preview here.
-
----
-
 ## 🧑‍💻 Author
 
 **Marreddy Akshaya Varshini**  
